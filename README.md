@@ -1,2 +1,2 @@
-# wolt_median_times
+# Wolt meadian times
 Coding task for Wolt's Engineering Internships in 2019.

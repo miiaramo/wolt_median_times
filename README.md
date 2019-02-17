@@ -18,7 +18,7 @@ city_name D-M-YYYY HH-HH output_file_name
 python3 median_times.py Helsinki 10-1-2019 10-12 mediantimes.csv
 ```
 Where 
-    - Helsinki is the city of which's locations we are interested in.
-    - 10-1-2019 is the date we are interested in.
-    - 10-12 is the time interval.
-    - mediantimes.csv is the name for our output file.
+  - Helsinki is the city of which's locations we are interested in.
+  - 10-1-2019 is the date we are interested in.
+  - 10-12 is the time interval.
+  - mediantimes.csv is the name for our output file.
